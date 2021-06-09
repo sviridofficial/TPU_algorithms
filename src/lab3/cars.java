@@ -1,4 +1,4 @@
-package com.company;
+package lab3;
 
 public class cars {
     String name;

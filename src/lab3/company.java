@@ -1,4 +1,4 @@
-package com.company;
+package lab3;
 
 import java.util.LinkedList;
 
